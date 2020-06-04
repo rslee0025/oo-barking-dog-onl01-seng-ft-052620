@@ -11,4 +11,4 @@ class Dog
 fido = Dog.new
 fido.name = "fido"
 
-puts
+puts fido.name
